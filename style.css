@@ -5,6 +5,7 @@ html{
 
 }
 body{
+    text-size-adjust: 15;
     color: rgb(2, 6, 10);
     margin: 3%;
     height: 50%;
