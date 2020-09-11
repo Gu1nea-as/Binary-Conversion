@@ -1,0 +1,22 @@
+
+html{
+    color: red;
+    background-color:palegoldenrod;
+
+}
+body{
+    color: rgb(2, 6, 10);
+    margin: 3%;
+    height: 50%;
+    font-family: 'Coming Soon', cursive;
+
+}
+p{
+
+    text-align: center;
+    margin-left: 15PX;
+    margin-right: 15PX;
+}
+h1{text-align: center;
+    font: size 3em; 
+    }
